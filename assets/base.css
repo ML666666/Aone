@@ -1,0 +1,404 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---------- Responsive accurate ---------- */
+@media (min-width:750px){
+  html {
+    font-size: 28px;
+  }
+}
+@media (min-width:738px) and (max-width:746px) {
+  html {
+    font-size: 27.66px;
+  }
+}
+@media (min-width:729px) and (max-width:737px) {
+  html {
+    font-size: 27.33px;
+  }
+}
+@media (min-width:720px) and (max-width:728px) {
+  html {
+    font-size: 27px;
+  }
+}
+
+@media (min-width:711px) and (max-width:719px) {
+  html {
+    font-size: 26.66px;
+  }
+}
+
+@media (min-width:702px) and (max-width:710px) {
+  html {
+    font-size: 26.33px;
+  }
+}
+
+@media (min-width:694px) and (max-width:701px) {
+  html {
+    font-size: 26px;
+  }
+}
+
+@media (min-width:685px) and (max-width:693px) {
+  html {
+    font-size: 25.66px;
+  }
+}
+
+@media (min-width:676px) and (max-width:684px) {
+  html {
+    font-size: 25.33px;
+  }
+}
+
+@media (min-width:667px) and (max-width:675px) {
+  html {
+    font-size: 25px;
+  }
+}
+
+@media (min-width:658px) and (max-width:666px) {
+  html {
+    font-size: 24.66px;
+  }
+}
+
+@media (min-width:649px) and (max-width:657px) {
+  html {
+    font-size: 24.33px;
+  }
+}
+
+@media (min-width:640px) and (max-width:648px) {
+  html {
+    font-size: 24px;
+  }
+}
+
+@media (min-width:631px) and (max-width:639px) {
+  html {
+    font-size: 23.66px;
+  }
+}
+
+@media (min-width:622px) and (max-width:630px) {
+  html {
+    font-size: 23.33px;
+  }
+}
+
+@media (min-width:613px) and (max-width:621px) {
+  html {
+    font-size: 23px;
+  }
+}
+
+@media (min-width:604px) and (max-width:612px) {
+  html {
+    font-size: 22.66px;
+  }
+}
+
+@media (min-width:595px) and (max-width:603px) {
+  html {
+    font-size: 22.33px;
+  }
+}
+
+@media (min-width:586px) and (max-width:594px) {
+  html {
+    font-size: 22px;
+  }
+}
+
+@media (min-width:577px) and (max-width:585px) {
+  html {
+    font-size: 21.66px;
+  }
+}
+
+@media (min-width:568px) and (max-width:576px) {
+  html {
+    font-size: 21.33px;
+  }
+}
+
+@media (min-width:559px) and (max-width:567px) {
+  html {
+    font-size: 21px;
+  }
+}
+
+@media (min-width:550px) and (max-width:558px) {
+  html {
+    font-size: 20.66px;
+  }
+}
+
+@media (min-width:541px) and (max-width:549px) {
+  html {
+    font-size: 20.33px;
+  }
+}
+
+@media (min-width:533px) and (max-width:540px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:524px) and (max-width:532px) {
+  html {
+    font-size: 19.66px;
+  }
+}
+
+@media (min-width:515px) and (max-width:523px) {
+  html {
+    font-size: 19.33px;
+  }
+}
+
+@media (min-width:506px) and (max-width:514px) {
+  html {
+    font-size: 19px;
+  }
+}
+
+@media (min-width:497px) and (max-width:505px) {
+  html {
+    font-size: 18.66px;
+  }
+}
+
+@media (min-width:488px) and (max-width:496px) {
+  html {
+    font-size: 18.33px;
+  }
+}
+
+@media (min-width:480px) and (max-width:487px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (min-width:471px) and (max-width:479px) {
+  html {
+    font-size: 17.66px;
+  }
+}
+
+@media (min-width:462px) and (max-width:470px) {
+  html {
+    font-size: 17.33px;
+  }
+}
+
+@media (min-width:453px) and (max-width:461px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media (min-width:444px) and (max-width:452px) {
+  html {
+    font-size: 16.66px;
+  }
+}
+
+@media (min-width:435px) and (max-width:443px) {
+  html {
+    font-size: 16.33px;
+  }
+}
+
+@media (min-width:426px) and (max-width:434px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (min-width:417px) and (max-width:425px) {
+  html {
+    font-size: 15.66px;
+  }
+}
+
+@media (min-width:408px) and (max-width:416px) {
+  html {
+    font-size: 15.33px;
+  }
+}
+
+@media (min-width:400px) and (max-width:407px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media (min-width:391px) and (max-width:399px) {
+  html {
+    font-size: 14.66px;
+  }
+}
+
+@media (min-width:382px) and (max-width:390px) {
+  html {
+    font-size: 14.33px;
+  }
+}
+
+@media (min-width:374px) and (max-width:381px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width:365px) and (max-width:373px) {
+  html {
+    font-size: 13.66px;
+  }
+}
+
+@media (min-width:356px) and (max-width:364px) {
+  html {
+    font-size: 13.33px;
+  }
+}
+
+@media (min-width:347px) and (max-width:355px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (min-width:338px) and (max-width:346px) {
+  html {
+    font-size: 12.66px;
+  }
+}
+
+@media (min-width:329px) and (max-width:337px) {
+  html {
+    font-size: 12.44px;
+  }
+}
+
+@media (max-width:328px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+
+/* ---------- init ---------- */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+  word-wrap: break-word;
+  text-align: center;
+  box-sizing: border-box;
+}
+.video-js .vjs-big-play-button {
+  font-size: 3em;
+  line-height: 1.45em;
+  height: 1.5em !important;
+  width: 1.5em !important;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 0;
+  cursor: pointer;
+  opacity: 1;
+  border: 0.06666em solid #fff;
+  border-radius: 50% !important;
+  background: rgba(255,255,255,0.2) !important;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.edcArtcleWrapper  img{
+  width:14.724rem;
+  height:8.892rem;
+  display: block;
+  margin: 0.875rem auto;
+}
+.mint-toast{
+  background: #505050 !important;
+  border-radius:0px !important;
+}
+body, button, input, select, textarea {
+  font-family: Microsoft YaHei,STXihei,STHeiti,Verdana,Arial,Helvetica,sans-serif;
+  font-size: 0.926rem;
+  color: #000;
+  outline: none;
+  border: none;
+}
+
+th {
+  text-align: inherit;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+fieldset, img {
+  border: 0;
+  vertical-align: middle;
+}
+
+caption, th {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: 500;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+sub {
+  vertical-align: text-bottom;
+}
+
+ins, a {
+  color: #000;
+  text-decoration: none;
+}
+
+a, img {
+  -webkit-touch-callout: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+i {
+  font-style: normal;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+input[type=button], input[type=submit], input[type=file], button {
+  /*cursor: pointer;*/
+  -webkit-appearance: none;
+}
+
+
